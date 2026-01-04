@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SecondOpinion</string>
+    <string name="title_activity_main">SecondOpinion</string>
+    <string name="package_name">com.secondopinion.app</string>
+    <string name="custom_url_scheme">com.secondopinion.app</string>
+</resources>
